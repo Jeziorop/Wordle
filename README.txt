@@ -28,3 +28,16 @@ Pliki zasobów powinny znajdować się w folderze "res", lista plików:
 	- slowa.txt
 	- Hack-Regular.ttf
 Jeśli zabraknie któregoś z nich aplikacja może przestać działać poprawnie.
+
+Requirements
+Must Have (dependencies)
+SFML 2.4.1 or above - http://www.sfml-dev.org/
+Linux
+```
+ sudo apt-get install libsfml-dev
+```
+Windows
+Vist www.sfml-dev.org and download the lastest version of the library.
+In project settings,
+Add the </path/to/sfml/>/include to your c++ include path.
+Then add </path/to/sfml/>/lib to the linker extra library path.
