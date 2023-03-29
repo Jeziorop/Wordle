@@ -1,0 +1,30 @@
+﻿  tile.cpp
+D:\OneDrive - Zespół Szkół Komunikacji im. Hipolita Cegielskiego w Poznaniu\programowanie\wordle\tile.cpp(36,31): warning C4244: 'argument': conversion from 'const int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\OneDrive - Zespół Szkół Komunikacji im. Hipolita Cegielskiego w Poznaniu\programowanie\wordle\tile.cpp(36,28): warning C4244: 'argument': conversion from 'const int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  wordle.cpp
+D:\OneDrive - Zespół Szkół Komunikacji im. Hipolita Cegielskiego w Poznaniu\programowanie\wordle\functions.h(10,40): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+D:\OneDrive - Zespół Szkół Komunikacji im. Hipolita Cegielskiego w Poznaniu\programowanie\wordle\functions.h(10,21): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+D:\OneDrive - Zespół Szkół Komunikacji im. Hipolita Cegielskiego w Poznaniu\programowanie\wordle\functions.h(17,20): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+D:\OneDrive - Zespół Szkół Komunikacji im. Hipolita Cegielskiego w Poznaniu\programowanie\wordle\functions.h(23,31): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+D:\OneDrive - Zespół Szkół Komunikacji im. Hipolita Cegielskiego w Poznaniu\programowanie\wordle\functions.h(29,31): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+D:\OneDrive - Zespół Szkół Komunikacji im. Hipolita Cegielskiego w Poznaniu\programowanie\wordle\wordle.cpp(18,74): warning C4244: 'argument': conversion from '_Rep' to 'unsigned int', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+D:\OneDrive - Zespół Szkół Komunikacji im. Hipolita Cegielskiego w Poznaniu\programowanie\wordle\wordle.cpp(95,56): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+D:\OneDrive - Zespół Szkół Komunikacji im. Hipolita Cegielskiego w Poznaniu\programowanie\wordle\wordle.cpp(95,53): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+D:\OneDrive - Zespół Szkół Komunikacji im. Hipolita Cegielskiego w Poznaniu\programowanie\wordle\wordle.cpp(125,33): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+D:\OneDrive - Zespół Szkół Komunikacji im. Hipolita Cegielskiego w Poznaniu\programowanie\wordle\wordle.cpp(125,30): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+D:\OneDrive - Zespół Szkół Komunikacji im. Hipolita Cegielskiego w Poznaniu\programowanie\wordle\wordle.cpp(142,30): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+D:\OneDrive - Zespół Szkół Komunikacji im. Hipolita Cegielskiego w Poznaniu\programowanie\wordle\wordle.cpp(142,27): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+  Generating Code...
+  wordle.vcxproj -> D:\OneDrive - Zespół Szkół Komunikacji im. Hipolita Cegielskiego w Poznaniu\programowanie\wordle\x64\Release\wordle.exe
