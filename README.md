@@ -1,5 +1,11 @@
 ## Wordle by Jędrzej Kolski
 My old project - wordle with adjustments for speedrunners. Half of the code is in Polish and half in English, but I don't intend to touch it, let it be.
+
+### Portable version
+Simply download [Wordle](wordle.zip), build for windows x64.
+
+https://github.com/user-attachments/assets/d41c99f0-0c3f-4ceb-8428-70e616747025
+
 #### Gameplay  
 [Polish Wikipedia - Wordle](https://pl.wikipedia.org/wiki/Wordle)  
 [English Wikipedia - Wordle](https://en.wikipedia.org/wiki/Wordle)
@@ -41,5 +47,3 @@ My old project - wordle with adjustments for speedrunners. Half of the code is i
 
   Missing any of these files may cause the application to malfunction.
 
-## Portable version
-simply download wordle.zip, build for windows x64
