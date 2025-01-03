@@ -1,0 +1,40 @@
+﻿  tile.cpp
+D:\informatyka\test\Wordle\tile.cpp(36,31): warning C4244: 'argument': conversion from 'const int' to 'T', possible loss of data
+D:\informatyka\test\Wordle\tile.cpp(36,31): warning C4244:         with
+D:\informatyka\test\Wordle\tile.cpp(36,31): warning C4244:         [
+D:\informatyka\test\Wordle\tile.cpp(36,31): warning C4244:             T=float
+D:\informatyka\test\Wordle\tile.cpp(36,31): warning C4244:         ]
+D:\informatyka\test\Wordle\tile.cpp(36,28): warning C4244: 'argument': conversion from 'const int' to 'T', possible loss of data
+D:\informatyka\test\Wordle\tile.cpp(36,28): warning C4244:         with
+D:\informatyka\test\Wordle\tile.cpp(36,28): warning C4244:         [
+D:\informatyka\test\Wordle\tile.cpp(36,28): warning C4244:             T=float
+D:\informatyka\test\Wordle\tile.cpp(36,28): warning C4244:         ]
+  wordle.cpp
+D:\informatyka\test\Wordle\functions.h(10,40): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+  (compiling source file 'wordle.cpp')
+  
+D:\informatyka\test\Wordle\functions.h(10,21): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+  (compiling source file 'wordle.cpp')
+  
+D:\informatyka\test\Wordle\functions.h(17,20): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+  (compiling source file 'wordle.cpp')
+  
+D:\informatyka\test\Wordle\functions.h(23,31): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+  (compiling source file 'wordle.cpp')
+  
+D:\informatyka\test\Wordle\functions.h(29,31): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+  (compiling source file 'wordle.cpp')
+  
+D:\informatyka\test\Wordle\wordle.cpp(18,74): warning C4244: 'argument': conversion from '_Rep' to 'unsigned int', possible loss of data
+D:\informatyka\test\Wordle\wordle.cpp(18,74): warning C4244:         with
+D:\informatyka\test\Wordle\wordle.cpp(18,74): warning C4244:         [
+D:\informatyka\test\Wordle\wordle.cpp(18,74): warning C4244:             _Rep=__int64
+D:\informatyka\test\Wordle\wordle.cpp(18,74): warning C4244:         ]
+D:\informatyka\test\Wordle\wordle.cpp(95,56): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+D:\informatyka\test\Wordle\wordle.cpp(95,53): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+D:\informatyka\test\Wordle\wordle.cpp(125,33): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+D:\informatyka\test\Wordle\wordle.cpp(125,30): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+D:\informatyka\test\Wordle\wordle.cpp(142,30): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+D:\informatyka\test\Wordle\wordle.cpp(142,27): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+  Generating Code...
+  wordle.vcxproj -> D:\informatyka\test\Wordle\x64\Release\wordle.exe
